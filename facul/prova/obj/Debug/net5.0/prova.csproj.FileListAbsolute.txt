@@ -1,0 +1,16 @@
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.csprojAssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\prova.exe
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\prova.deps.json
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\prova.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\prova.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\prova.dll
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\ref\prova.dll
+D:\PROGRAMAÇÃO\C#\prova\bin\Debug\net5.0\prova.pdb
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.dll
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\ref\prova.dll
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.pdb
+D:\PROGRAMAÇÃO\C#\prova\obj\Debug\net5.0\prova.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\ble\metodo2\bin\Debug\net5.0\metodo2.exe
+D:\ble\metodo2\bin\Debug\net5.0\metodo2.deps.json
+D:\ble\metodo2\bin\Debug\net5.0\metodo2.runtimeconfig.json
+D:\ble\metodo2\bin\Debug\net5.0\metodo2.runtimeconfig.dev.json
+D:\ble\metodo2\bin\Debug\net5.0\metodo2.dll
+D:\ble\metodo2\bin\Debug\net5.0\ref\metodo2.dll
+D:\ble\metodo2\bin\Debug\net5.0\metodo2.pdb
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.csprojAssemblyReference.cache
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.AssemblyInfoInputs.cache
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.AssemblyInfo.cs
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.csproj.CoreCompileInputs.cache
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.dll
+D:\ble\metodo2\obj\Debug\net5.0\ref\metodo2.dll
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.pdb
+D:\ble\metodo2\obj\Debug\net5.0\metodo2.genruntimeconfig.cache

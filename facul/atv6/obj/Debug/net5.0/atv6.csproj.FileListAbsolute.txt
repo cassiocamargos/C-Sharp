@@ -1,0 +1,16 @@
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\atv6.exe
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\atv6.deps.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\atv6.runtimeconfig.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\atv6.runtimeconfig.dev.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\atv6.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\ref\atv6.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\bin\Debug\net5.0\atv6.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.csprojAssemblyReference.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.AssemblyInfoInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.AssemblyInfo.cs
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\ref\atv6.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv6\obj\Debug\net5.0\atv6.genruntimeconfig.cache

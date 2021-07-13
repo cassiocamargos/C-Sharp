@@ -1,0 +1,16 @@
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ListaAEx6.exe
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ListaAEx6.deps.json
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ListaAEx6.runtimeconfig.json
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ListaAEx6.runtimeconfig.dev.json
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ListaAEx6.dll
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ref\ListaAEx6.dll
+C:\Users\Gabriely\Desktop\ListaAEx6\bin\Debug\net5.0\ListaAEx6.pdb
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.csprojAssemblyReference.cache
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.AssemblyInfoInputs.cache
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.AssemblyInfo.cs
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.csproj.CoreCompileInputs.cache
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.dll
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ref\ListaAEx6.dll
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.pdb
+C:\Users\Gabriely\Desktop\ListaAEx6\obj\Debug\net5.0\ListaAEx6.genruntimeconfig.cache

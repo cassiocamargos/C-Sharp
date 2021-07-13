@@ -1,0 +1,16 @@
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\consoleidade.exe
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\consoleidade.deps.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\consoleidade.runtimeconfig.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\consoleidade.runtimeconfig.dev.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\consoleidade.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\ref\consoleidade.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\bin\Debug\net5.0\consoleidade.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.csprojAssemblyReference.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.AssemblyInfoInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.AssemblyInfo.cs
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\ref\consoleidade.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\consoleidade\obj\Debug\net5.0\consoleidade.genruntimeconfig.cache

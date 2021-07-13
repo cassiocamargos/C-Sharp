@@ -1,0 +1,16 @@
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.csprojAssemblyReference.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.AssemblyInfoInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.AssemblyInfo.cs
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\CosaNostra.exe
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\CosaNostra.deps.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\CosaNostra.runtimeconfig.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\CosaNostra.runtimeconfig.dev.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\CosaNostra.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\ref\CosaNostra.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\bin\Debug\net5.0\CosaNostra.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\ref\CosaNostra.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\c#\atv7\CosaNostra\obj\Debug\net5.0\CosaNostra.genruntimeconfig.cache

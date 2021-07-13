@@ -1,0 +1,16 @@
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\PJfinal.exe
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\PJfinal.deps.json
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\PJfinal.runtimeconfig.json
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\PJfinal.runtimeconfig.dev.json
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\PJfinal.dll
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\ref\PJfinal.dll
+C:\Users\Julia Hoffelder\Downloads\PJfinal\bin\Debug\net5.0\PJfinal.pdb
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.csprojAssemblyReference.cache
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.AssemblyInfoInputs.cache
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.AssemblyInfo.cs
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.csproj.CoreCompileInputs.cache
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.dll
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\ref\PJfinal.dll
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.pdb
+C:\Users\Julia Hoffelder\Downloads\PJfinal\obj\Debug\net5.0\PJfinal.genruntimeconfig.cache

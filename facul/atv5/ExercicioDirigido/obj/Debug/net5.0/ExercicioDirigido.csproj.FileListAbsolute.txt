@@ -1,0 +1,16 @@
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ExercicioDirigido.exe
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ExercicioDirigido.deps.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ExercicioDirigido.runtimeconfig.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ExercicioDirigido.runtimeconfig.dev.json
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ExercicioDirigido.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ref\ExercicioDirigido.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\bin\Debug\net5.0\ExercicioDirigido.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.csprojAssemblyReference.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.AssemblyInfoInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.AssemblyInfo.cs
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.csproj.CoreCompileInputs.cache
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ref\ExercicioDirigido.dll
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.pdb
+C:\Users\cassi\Documents\PROGRAMAÇÃO\C#\atv5\ExercicioDirigido\obj\Debug\net5.0\ExercicioDirigido.genruntimeconfig.cache

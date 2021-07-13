@@ -1,0 +1,16 @@
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\projetoAvaliacao.exe
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\projetoAvaliacao.deps.json
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\projetoAvaliacao.runtimeconfig.json
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\projetoAvaliacao.runtimeconfig.dev.json
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\projetoAvaliacao.dll
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\ref\projetoAvaliacao.dll
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\bin\Debug\net5.0\projetoAvaliacao.pdb
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.csprojAssemblyReference.cache
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.dll
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\ref\projetoAvaliacao.dll
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.pdb
+D:\PROGRAMAÇÃO\C#\facul\projetoAvaliacao\obj\Debug\net5.0\projetoAvaliacao.genruntimeconfig.cache
